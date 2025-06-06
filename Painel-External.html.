@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel External - Auxílio Profissional para Mira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0f0f0f;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #1e1e1e;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2em;
+            margin: 0;
+            color: #facc15;
+        }
+        section {
+            padding: 30px 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        .cta-button {
+            display: inline-block;
+            background: #facc15;
+            color: #0f0f0f;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+            margin-top: 20px;
+            transition: background 0.3s ease;
+        }
+        .cta-button:hover {
+            background: #eab308;
+        }
+        .image {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #1e1e1e;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Painel External</h1>
+</header>
+
+<section>
+    <h2>Melhore sua Mira no Free Fire!</h2>
+    <p>O <strong>Painel External</strong> é um produto desenvolvido para <strong>auxiliar sua mira</strong> em jogos como Free Fire. Ele regula seus movimentos e mira, ajudando você a ter mais precisão. Não faz milagres, mas certamente é uma vantagem estratégica para quem quer evoluir!</p>
+
+    <div class="image">
+        <img src="https://via.placeholder.com/800x400?text=Aux%C3%ADlio+de+Mira+para+Free+Fire" alt="Auxílio para Mira no Free Fire">
+    </div>
+
+    <h3>Por que escolher o Painel External?</h3>
+    <ul>
+        <li>✅ Auxilia na precisão da sua mira.</li>
+        <li>✅ Fácil de usar e configurar.</li>
+        <li>✅ Ideal para quem quer evoluir no Free Fire.</li>
+        <li>✅ Produto profissional, com suporte.</li>
+    </ul>
+
+    <h3>Valor:</h3>
+    <p><strong>Descubra no checkout!</strong></p>
+
+    <a class="cta-button" href="LINK_DO_CHECKOUT_AQUI">Quero adquirir agora</a>
+</section>
+
+<footer>
+    &copy; 2025 Painel External - Todos os direitos reservados.
+</footer>
+
+</body>
+</html>
